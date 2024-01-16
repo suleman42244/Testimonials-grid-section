@@ -5,6 +5,7 @@
 }
 .testimonial1{
     background-color: hsl(263, 55%, 52%);
+    color: white;
 }
 
 .testimonial2{
@@ -28,10 +29,21 @@ img{
 
 .testimonial4{
     background-color: hsl(219, 29%, 14%);
+    color: white;
 }
 .flex{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     width: 25%;
+}
+.position{
+    color: hsl(0, 0%, 81%);
+    font-weight: 500;
+    font-size: 15px;
+}
+.name{
+    color: hsl(0, 0%, 100%);
+    font-weight: 600;
+    font-size: 15px;
 }
