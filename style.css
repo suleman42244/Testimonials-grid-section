@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.testimonial1{
+    background-color: hsl(263, 55%, 52%);
+}
+img{
+    border-radius: 50%;
+}
+.testimonial2{
+    
+    background-color: hsl(217, 19%, 35%);
+}
+.testimonial3, .testimonial2, .testimonial1, .testimonial4, .testimonial5{
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
